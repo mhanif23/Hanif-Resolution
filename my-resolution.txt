@@ -3,3 +3,5 @@ Resolution
 - IPK diatas 3.5
 - Magang
 - Kerjaan lancar
+- Restrukturisai Web Kemakom Lancar
+- Konsisten menjalani bootcamp Cloud Computing
