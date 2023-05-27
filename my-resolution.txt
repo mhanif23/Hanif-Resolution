@@ -5,3 +5,4 @@ Resolution
 - Restrukturisai Web Kemakom Lancar
 - Konsisten menjalani bootcamp Cloud Computing
 - Development web (Kerjasama IP)
+- Just Test
